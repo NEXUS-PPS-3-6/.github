@@ -6,13 +6,13 @@ This organization holds the Smart Gate demonstrator: a platform that inspects co
 
 ## Repositories
 
-| Repository | Description |
-|---|---|
-| [nexus_smart-gate](https://github.com/NEXUS-PPS-3-6/nexus_smart-gate) | Smart Gate platform: orchestrator, web interface and the Docker Compose deployment of the whole system. Start here. |
-| [nexus_LPR](https://github.com/NEXUS-PPS-3-6/nexus_LPR) | License plate recognition service |
-| [nexus_CDD](https://github.com/NEXUS-PPS-3-6/nexus_CDD) | Corrosion detection service |
-| [nexus_container_code_ocr](https://github.com/NEXUS-PPS-3-6/nexus_container_code_ocr) | Container code (ISO 6346) recognition service |
-| [nexus_seal_detection](https://github.com/NEXUS-PPS-3-6/nexus_seal_detection) | Security seal detection service |
+| Repository | Description | Authors |
+|---|---|---|
+| [nexus_smart-gate](https://github.com/NEXUS-PPS-3-6/nexus_smart-gate) | Smart Gate platform: orchestrator, web interface and the Docker Compose deployment of the whole system. Start here. | Tiago Caridade Gomes |
+| [nexus_LPR](https://github.com/NEXUS-PPS-3-6/nexus_LPR) | License plate recognition service | David Alexandre Ornelas; integration by Tiago Caridade Gomes |
+| [nexus_CDD](https://github.com/NEXUS-PPS-3-6/nexus_CDD) | Corrosion detection service | David Alexandre Ornelas; integration by Tiago Caridade Gomes |
+| [nexus_container_code_ocr](https://github.com/NEXUS-PPS-3-6/nexus_container_code_ocr) | Container code (ISO 6346) recognition service | José Santos, with David Ornelas, Daniel Canedo and António Neves; integration by Tiago Caridade Gomes |
+| [nexus_seal_detection](https://github.com/NEXUS-PPS-3-6/nexus_seal_detection) | Security seal detection service | Detection model: IEETA development team; service by Tiago Caridade Gomes |
 
 Clone the five repositories into the same folder, copy the model weights (provided separately) into each module, and follow the [Smart Gate README](https://github.com/NEXUS-PPS-3-6/nexus_smart-gate#readme) to run everything with `docker compose up`.
 
@@ -24,7 +24,14 @@ Presented at the European Researchers' Night, Aveiro, 25 September 2026 ([PDF](h
 
 ## Authorship
 
-The Smart Gate platform, the integration of the modules and the seal detection service were developed by **Tiago Caridade Gomes**, supervised by António José Ribeiro Neves and Daniel Duarte Canedo. The license plate, corrosion, container code and seal detection models were developed by the IEETA team; each repository states its authors.
+The Smart Gate platform, the integration of the modules and the seal detection service were developed by **Tiago Caridade Gomes**, supervised by António José Ribeiro Neves and Daniel Duarte Canedo.
+
+The modules keep their original authorship:
+- **License plate recognition** and **corrosion detection**: David Alexandre Ornelas.
+- **Container code recognition**: José Santos, with David Ornelas, Daniel Canedo and António Neves.
+- **Security seal detection model**: IEETA development team.
+
+All authors are with IEETA / DETI, University of Aveiro.
 
 ## Funding
 
