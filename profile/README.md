@@ -18,9 +18,9 @@ Clone the five repositories into the same folder, copy the model weights (provid
 
 ## Poster
 
-Presented at the European Researchers' Night, Aveiro, 25 September 2026 ([PDF](assets/smart_gate_poster_ERN_2026.pdf)).
+Presented at the European Researchers' Night, Aveiro, 25 September 2026 ([PDF](https://github.com/NEXUS-PPS-3-6/.github/raw/main/profile/assets/smart_gate_poster_ERN_2026.pdf)).
 
-<img src="assets/smart_gate_poster_ERN_2026.png" alt="Smart Gate poster" width="500">
+<img src="https://github.com/NEXUS-PPS-3-6/.github/raw/main/profile/assets/smart_gate_poster_ERN_2026.png" alt="Smart Gate poster" width="500">
 
 ## Authorship
 
