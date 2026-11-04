@@ -22,6 +22,10 @@ Presented at the European Researchers' Night, Aveiro, 25 September 2026 ([PDF](h
 
 <img src="https://github.com/NEXUS-PPS-3-6/.github/raw/main/profile/assets/smart_gate_poster_ERN_2026.png" alt="Smart Gate poster" width="500">
 
+## Presentation
+
+Overview of the Smart Gate: the problem, the NEXUS project, the four modules, the platform and the test results ([PDF](https://github.com/NEXUS-PPS-3-6/.github/raw/main/profile/assets/smart_gate_presentation.pdf), [PowerPoint](https://github.com/NEXUS-PPS-3-6/.github/raw/main/profile/assets/smart_gate_presentation.pptx)).
+
 ## Authorship
 
 The Smart Gate platform, the integration of the modules and the seal detection service were developed by **Tiago Caridade Gomes**, supervised by António José Ribeiro Neves and Daniel Duarte Canedo.
